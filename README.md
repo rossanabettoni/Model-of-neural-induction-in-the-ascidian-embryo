@@ -1,4 +1,7 @@
-## Model of neural induction in the ascidian embryo
+## Model of neural induction in the ascidian embryo 
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010335
+
 
 The experimental data used to obtain all the figures are reported in the file ExpData.xlsx. 
 
